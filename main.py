@@ -17,8 +17,8 @@ class Bank:
     except Exception as err:
         print(f"an exception occurred as {err}")
     
-    @staticmethod
-    def update():
+    @classmethod
+    def update(cls):
         with open(Bank.database,'w') as fs:
             fs.write(json.dumps(Bank.data))
 
