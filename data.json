@@ -1,1 +1,14 @@
-[{"name": "Dhruv Mali", "age": 19, "email": "dhruv03@gmail.com", "pin": 5657, "account_No": "4dT8X9=", "balance": 8999}]
+[
+    {
+        "account_no": "O1F69Z4ZLQ",
+        "name": "",
+        "age": 19,
+        "email": "abcd@gmail.com",
+        "pin": "2121",
+        "balance": 5000,
+        "transactions": [
+            "Deposited \u20b910000",
+            "Withdraw \u20b95000"
+        ]
+    }
+]
