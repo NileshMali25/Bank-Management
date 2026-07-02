@@ -64,7 +64,16 @@ cd Bank-Management
 pip install -r requirements.txt
 ```
 
-### 4. Run the Application
+## ▶️ Run the Console Version
+
+```bash
+python main.py
+```
+
+The console version provides a menu-driven banking system that runs in the terminal.
+
+
+### 4. Run the streamlit Application
 
 ```bash
 streamlit run app.py
