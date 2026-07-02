@@ -1,14 +1,3 @@
 [
-    {
-        "account_no": "O1F69Z4ZLQ",
-        "name": "",
-        "age": 19,
-        "email": "abcd@gmail.com",
-        "pin": "2121",
-        "balance": 5000,
-        "transactions": [
-            "Deposited \u20b910000",
-            "Withdraw \u20b95000"
-        ]
-    }
+    
 ]
